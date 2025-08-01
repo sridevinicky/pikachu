@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: [team bla blax ]
+### Team Name: [team blah blah ]
 
 
 ### Team Members
