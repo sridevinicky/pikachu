@@ -54,7 +54,6 @@ face the demon if u can
 get scared hahahaha😂😂😂
 # Diagrams
 
-<img width="595" height="2657" alt="img" src="https://github.com/user-attachments/assets/1d22736c-ca6b-4509-8d5e-d797313e0a1b" />
 
 flowchart TD
     A[Initial State<br/>SUMMON-A-DEMON<br/>Ready to begin ritual] --> B{User clicks<br/>SUMMON DEMON button?}
