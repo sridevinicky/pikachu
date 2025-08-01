@@ -33,23 +33,23 @@ For Software:
 For Software:
 # Installation
 git clone (url)
-cd pikachu
+cd pikachu/scary-jumpscare-app
 npm install
+
 # Run
+python kill.py
 npm run dev
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![(image.png)](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 Portal that summons demons
-![(image-1.png)](Add screenshot 2 here with proper name)
+![](Add screenshot 2 here with proper name)
 face the demon if u can
 ![](Add screenshot 3 here with proper name)
 get scared hahahaha😂😂😂
 # Diagrams
-![c:\Users\ASUS\Downloads\img.svg](Add your workflow/architecture diagram here)
-(horror_app_workflow.mermaid)
 
 ### Project Demo
 # Video
