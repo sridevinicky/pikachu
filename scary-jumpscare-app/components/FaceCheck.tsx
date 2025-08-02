@@ -8,7 +8,7 @@ export default function FaceCheck() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [notClose, setNotClose] = useState(false);
   const [isDetecting, setIsDetecting] = useState(false);
-  const detectionIntervalRef = useRef<number | null>(null);
+  const detectionIntervalRef = useRef<NodeJS.Timeout | null>(null);
   const router = useRouter();
 
   useEffect(() => {
