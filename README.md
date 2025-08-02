@@ -15,6 +15,7 @@
 ### Project Description
 A spine-chilling interactive web application that combines demon summoning theatrics with real-time face detection to create an immersive horror experience. Built with Next.js and Face-API.js, this app tricks users into a seemingly innocent ritual that culminates in a terrifying jumpscare.
 
+#(WARNING USE AT YOUR OWN RISk )
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
 people are too productive and sane. We thought,"what if we bring in a chaotic,ancient entity from the underworld to randomly mess with there lives ?" so, we created a tool to summon a demons using Typescript and css.Totally unnecesary , but extremly entertaining.
