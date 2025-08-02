@@ -13,11 +13,11 @@
 - Member 2:  [Yadu krishnan V S]
 
 ### Project Description
-[2-3 lines about what yo.+ur project does]
+A spine-chilling interactive web application that combines demon summoning theatrics with real-time face detection to create an immersive horror experience. Built with Next.js and Face-API.js, this app tricks users into a seemingly innocent ritual that culminates in a terrifying jumpscare.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
-people are too productive and sane. We thought,"what if we bring in a chaotic,ancient entity from the underworld to randomly mess with there lives ?" so, we created a tool to summon a demons using basic HTML and javascript.Totally unnecesary , but extremly entertaining.
+people are too productive and sane. We thought,"what if we bring in a chaotic,ancient entity from the underworld to randomly mess with there lives ?" so, we created a tool to summon a demons using Typescript and css.Totally unnecesary , but extremly entertaining.
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
 A scroll-triggered ritual animation with background chants in latin,fake incantation buttons 
